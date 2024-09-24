@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/<repo>'
+    repoURL: 'https://github.com/mkhalegaonkar3/argo-cd-tutorial'
     path: guestbook
     targetRevision: HEAD
   destination:
